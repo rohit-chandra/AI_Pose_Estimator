@@ -2,20 +2,23 @@
 Goal: Real time pose detection  using MediaPipe, OpenCV and Python
 
 **Steps to implement AI Pose Estimation**
+
 Step 1: Install MediaPipe for python using pip install
 Step 2: detect hands from real time webcam feed
 Step 3: Output images using OpenCV
 
 
 **Steps to implement Sign Language Detection in real time**
+
 Step 1: Collect data of hands, body face and save them as Numpy Arrays
 Step 2: Train a deep neural network with LSTM layers for sequences to predict the temporal component. So that we are able to prodict the action from a number of frames
 Step 3: Put it all together - perform real time sign language detection using OpenCV
 
-Why MediaPipie?
+**Why MediaPipie?**
+
 MediaPipe offers cross-platform, customizable ML solutions for live and streaming media to detection hands, face and many more.
 
-We will start with Basic Estimation of Hand pose first and then slowly build different pose estimation ( Hand Detection, Sign Language Detection in real time, Bicep Curl Counter
+We will start with Basic Estimation of Hand pose first and then slowly build different pose estimation ( Hand Detection, Sign Language Detection in real time, Bicep Curl Counter and many more)
 
 
 **References:**
