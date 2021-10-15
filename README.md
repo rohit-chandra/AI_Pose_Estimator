@@ -1,5 +1,7 @@
 # AI Pose Estimation
-Goal: Real time pose detection  using MediaPipe, OpenCV and Python
+**Goal: Real time pose detection  using MediaPipe, OpenCV and Python**
+
+**Language: Python**
 
 **Steps to implement AI Pose Estimation**
 
