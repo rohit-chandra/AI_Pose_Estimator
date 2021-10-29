@@ -28,3 +28,6 @@ We will start with Basic Estimation of Hand pose first and then slowly build dif
 * OpenCV : https://github.com/opencv/opencv
 * Two Minutes Paper youtube link: https://www.youtube.com/watch?v=F84jaIR5Uxc
 * Google Blog on MediaPipe Holistic — Simultaneous Face, Hand and Pose Prediction, on Device : https://ai.googleblog.com/2020/12/mediapipe-holistic-simultaneous-face.html
+
+**MediaPipe**
+![image](https://user-images.githubusercontent.com/7972158/139479519-1626eecc-dcf4-4dd0-9d47-9c5a6cf62f08.png)
