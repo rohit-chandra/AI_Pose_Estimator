@@ -18,16 +18,12 @@
 
 **Why MediaPipie?**
 
-MediaPipe offers cross-platform, customizable ML solutions for live and streaming media to detection hands, face and many more.
-
-We will start with Basic Estimation of Hand pose first and then slowly build different pose estimation ( Hand Detection, Sign Language Detection in real time, Bicep Curl Counter and many more)
-
+**MediaPipe**
+![image](https://user-images.githubusercontent.com/7972158/139479519-1626eecc-dcf4-4dd0-9d47-9c5a6cf62f08.png)
+![image](https://user-images.githubusercontent.com/7972158/139479769-00090d50-1418-43b5-aec5-9d9deb77b655.png)
 
 **References:**
 * MediaPipe framework : https://github.com/google/mediapipe
 * OpenCV : https://github.com/opencv/opencv
 * Two Minutes Paper youtube link: https://www.youtube.com/watch?v=F84jaIR5Uxc
 * Google Blog on MediaPipe Holistic — Simultaneous Face, Hand and Pose Prediction, on Device : https://ai.googleblog.com/2020/12/mediapipe-holistic-simultaneous-face.html
-
-**MediaPipe**
-![image](https://user-images.githubusercontent.com/7972158/139479519-1626eecc-dcf4-4dd0-9d47-9c5a6cf62f08.png)
