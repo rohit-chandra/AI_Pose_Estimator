@@ -18,7 +18,8 @@
 
 
 
-**MediaPipe**
+**MediaPipe**  
+
 ![MediaPipe](docs/images/mediapipe_small.png)
 
 --------------------------------------------------------------------------------
